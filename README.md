@@ -4,3 +4,4 @@
 
 В разработке:
 1. [Налогообложение интернет рекламы - ТЗ](https://github.com/financial-forensics/Media-Tax/blob/main/04_TZ-all.md)
+2. [Учёт в разрезе договоров - ТЗ](https://github.com/financial-forensics/Contracts/blob/main/Upload_iProTo1C.md)
