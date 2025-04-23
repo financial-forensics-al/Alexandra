@@ -7,3 +7,5 @@
 2. [Учёт в разрезе договоров](https://github.com/financial-forensics/Contracts/blob/main/README.md)
 3. [Учёт прослеживемых товаров](https://github.com/financial-forensics/RNPT/blob/main/README.md)
 4. [Автоматизация перепривязки оплат](https://github.com/financial-forensics/Paiments/blob/main/README.md)
+5. [Разработка отчёта по расшифровке статей движения по расходам (76.09-51)](https://utrack.etm.corp/issue/Buh-90)
+6. [Процедура m-ldplat](https://github.com/financial-forensics/m-ldplat/blob/main/m-ldplat.svg)
