@@ -10,3 +10,4 @@
 5. [Разработка отчёта по расшифровке статей движения по расходам (76.09-51)](https://utrack.etm.corp/issue/Buh-90)
 6. [Процедура m-ldplat](https://github.com/financial-forensics/m-ldplat/blob/main/m-ldplat.svg); [New](https://github.com/financial-forensics/m-ldplat/blob/main/m-ldplat_new.svg)
 7. [Факторинг](https://github.com/financial-forensics/Factoring/blob/main/README.md)
+8. [Финансовый управленческий учет и отчетность МСФО]()
