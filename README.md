@@ -11,3 +11,4 @@
 6. [Процедура m-ldplat](https://github.com/financial-forensics/m-ldplat/blob/main/m-ldplat.svg); [New](https://github.com/financial-forensics/m-ldplat/blob/main/m-ldplat_new.svg)
 7. [Факторинг](https://github.com/financial-forensics/Factoring/blob/main/README.md)
 8. [Финансовый управленческий учет и отчетность МСФО](https://financial-forensics-al.github.io/FinTech/)
+9. [Внедрение 1С ДО для перевешивания платежей]()
