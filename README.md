@@ -12,3 +12,4 @@
 7. [Факторинг](https://github.com/financial-forensics/Factoring/blob/main/README.md)
 8. [Финансовый управленческий учет и отчетность МСФО](https://financial-forensics-al.github.io/FinTech/)
 9. [Внедрение 1С ДО для перевешивания платежей]()
+10. [Карта рисков для продуктовой команды "Финансы"]()
